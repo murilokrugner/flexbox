@@ -4,4 +4,4 @@
 
 \*Twitter :)
 
-![Exemplo de layout do Twitter](https://github.com/murilokrugner/flexbox/imgReadme/exemplo.png)
+![Exemplo de layout do Twitter](https://github.com/murilokrugner/flexbox/blob/master/imgReadme/exemplo.png)
