@@ -1,0 +1,13 @@
+#app {
+  display: flex;
+  flex-direction: row;
+  align-items: ;
+  justify-content: ;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  background: #f00;
+  margin: 5px;
+}
